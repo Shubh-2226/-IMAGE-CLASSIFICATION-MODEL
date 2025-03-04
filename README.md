@@ -116,3 +116,4 @@ CNNs will continue to be at the forefront of artificial intelligence, enabling m
 ### **Conclusion**  
 CNNs have revolutionized the field of computer vision, allowing machines to understand and classify images with high accuracy. Their ability to extract hierarchical features, coupled with their robustness to variations in image data, makes them an indispensable tool in various industries. Despite their computational demands, CNNs remain one of the most powerful deep learning architectures, shaping the future of AI-driven applications. 🚀
 
+![Image](https://github.com/user-attachments/assets/27a53af4-e07b-43d0-aa2f-cf6a2d6fd1e6)
